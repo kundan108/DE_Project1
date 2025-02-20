@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/anshlamba03/Adventure-Works-Data-Engineering-Project/tree/main/Data",
+			"url": "https://github.com",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
